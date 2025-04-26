@@ -4,4 +4,6 @@
 //You can access the file through the link specified in the contract.
 
 
-string public collectionDocumentationURL = "https://scarlet-bright-catfish-118.mypinata.cloud/ipfs/bafkreidpdsp66ms2lroebqn4hq444fttnkpbqfumy6vcemkh4uqisfwov4";
+string public collectionDocumentationURL
+
+= "https://scarlet-bright-catfish-118.mypinata.cloud/ipfs/bafkreidpdsp66ms2lroebqn4hq444fttnkpbqfumy6vcemkh4uqisfwov4";
